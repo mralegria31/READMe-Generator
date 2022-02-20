@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mralegria31/READMe-Generator#readme",
   "dependencies": {
+    "inquirer": "^8.2.0",
     "require": "^0.4.4"
   }
 }
