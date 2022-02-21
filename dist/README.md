@@ -1,5 +1,5 @@
 
-  # Generator
+  # README Generator
   
   ## License
   ![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -8,7 +8,7 @@
   
   
   ## Description
-  node js 
+  To create README file
   
   ## Table of Contents
   
@@ -21,18 +21,18 @@
   
   <a name="installation"></a>
   ## Installation
-  download packages
+  run npm init then download package json
   
   <a name="usage"></a>
   ## Usage
-  use to generate readme
+  run node index.js then follow prompts
   
   <a name="credits"></a>
   ## Credits
   
   <a name="tests"></a>
   ## Tests
-  node index.js to check if its running properlu
+  run node index.js then follow prompts
   
   <a name="contact"></a>
   ## Questions
