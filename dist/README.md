@@ -1,14 +1,14 @@
 
-  # runbuddy
+  # Generator
   
   ## License
   ![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
   MIT
-  [Full license information]("MIT").
+  [Full license information](https://img.shields.io/badge/License-MIT-blue.svg).
   
   
   ## Description
-  marketing
+  node js 
   
   ## Table of Contents
   
@@ -21,18 +21,18 @@
   
   <a name="installation"></a>
   ## Installation
-  download then run file 
+  download packages
   
   <a name="usage"></a>
   ## Usage
-  for marketing
+  use to generate readme
   
   <a name="credits"></a>
   ## Credits
   
   <a name="tests"></a>
   ## Tests
-  
+  node index.js to check if its running properlu
   
   <a name="contact"></a>
   ## Questions
@@ -42,5 +42,5 @@
 
   [email](mailto:mr.alegria42@protonmail.com)
 
-  [GitHub](https://github.com/https://github.com/mralegria31)
+  [GitHub](https://github.com/mralegria31)
   
